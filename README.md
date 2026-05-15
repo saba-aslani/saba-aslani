@@ -5,13 +5,11 @@ I analyze business data and build data pipelines using Python, SQL, and statisti
 
 ## Skills
 
-- **Programming:** Python (pandas, numpy)
-- **Data Analysis:** EDA, data cleaning, feature engineering
-- **SQL:** joins, aggregations, window functions, CTEs
-- **Data Engineering:** ETL processes, data pipelines, data modeling (basic), working with SQLite
-- **Statistics:** A/B testing, hypothesis testing, ANOVA
-- **Data Visualization:** matplotlib, seaborn
-- **Tools:** Jupyter Notebook, SQLite, Git, GitHub, Streamlit
+- **Programming & Analytics:** Python (pandas, numpy, Scikit-learn, SciPy), SQL (CTEs, Window Functions, Aggregations)
+- **Databases & Data Engineering:** PostgreSQL, SQLite, ETL Pipelines, Data Cleaning, Data Transformation
+- **Business Intelligence & Visualization:** Power BI, Tableau, Streamlit, Matplotlib, Seaborn
+- **Statistics:** A/B testing, hypothesis testing, ANOVA, Exploratory Data Analysis (EDA), RFM Customer Segmentation
+- **Tools:** Microsoft Excel, Jupyter Notebook, Git, GitHub, VS Code
 
 ## Featured Projects
 
