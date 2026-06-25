@@ -1,7 +1,7 @@
 # Hi, I'm Saba Aslani 👋
 
 **Data Analyst & Data Engineer** | Python · SQL · Power BI · Machine Learning  
- &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/saba-aslani) &nbsp;·&nbsp; 🌐 [Live Demo](https://churnprediction-customer.streamlit.app/)
+&nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/saba-aslani) &nbsp;·&nbsp; 🌐 [Live Demo](https://churnprediction-customer.streamlit.app/)
 
 ---
 
@@ -96,16 +96,7 @@ Background in Electrical Engineering and business operations, now focused on end
 
 ---
 
-## 📌 Currently
-
-- 🔭 Advancing SQL skills: query optimization, indexes, execution plans
-- 🌱 Building toward a full Data Engineering transition
-- 👀 Open to **Data Analyst**, **Business Analyst**, and **Data Engineer** roles in Vancouver or remote
-
----
-
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saba%20Aslani-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/saba-aslani)
 [![GitHub](https://img.shields.io/badge/GitHub-saba--aslani-181717?style=flat&logo=github)](https://github.com/saba-aslani)
-[![Streamlit](https://img.shields.io/badge/Churn%20App-Live-FF4B4B?style=flat&logo=streamlit)](https://churnprediction-customer.streamlit.app/)
