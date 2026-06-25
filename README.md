@@ -1,7 +1,7 @@
 # Hi, I'm Saba Aslani 👋
 
 **Data Analyst & Data Engineer** | Python · SQL · Power BI · Machine Learning  
-📍 Vancouver, BC &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/saba-aslani) &nbsp;·&nbsp; 🌐 [Live Demo](https://churnprediction-customer.streamlit.app/)
+ &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/saba-aslani) &nbsp;·&nbsp; 🌐 [Live Demo](https://churnprediction-customer.streamlit.app/)
 
 ---
 
