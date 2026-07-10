@@ -117,14 +117,6 @@ Messy data in. Clear decisions out.
 
 -----
 
-## 📌 Currently
-
-- 🔭 Extending the quant backtesting framework with ML signal generation (XGBoost direction prediction)
-- 🌱 Advancing SQL optimization: indexes, execution plans, query tuning
-- 👀 Open to **Data Analyst**, **Data Engineer**, and **Quant Analyst** roles in Vancouver or remote
-
------
-
 ## 📫 Let’s connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saba--aslani.github.io-black?style=flat&logo=github)](https://saba-aslani.github.io)
