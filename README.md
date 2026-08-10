@@ -127,14 +127,6 @@ Messy data in. Clear decisions out.
 
 ---
 
-## 📌 Currently
-
-- 🔭 Extending Canada Trade Gateway with historical CBSA load and day-of-week congestion patterns
-- 🌱 Advancing toward a full Data Engineering role
-- 👀 Open to **Data Engineer**, **Analytics Engineer**, and **Data Analyst** roles in Vancouver or remote
-
----
-
 ## 📫 Let's connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saba--aslani.github.io-black?style=flat&logo=github)](https://saba-aslani.github.io)
